@@ -1,0 +1,28 @@
+/*Documento CSS3 - Fundamentos*/
+/*seletor{ propriedade: valor;}*/
+*{
+	padding: 10px;
+	margin:0px;
+	border:10px;
+}
+
+body{
+	padding: 50px;
+	background-color: lightgrey;
+}
+
+.titulos{
+	background-color: darkorange;
+}
+	
+#lorem{
+	background-color: lightgrey;
+	font-size:30px;
+}
+
+table{
+	border:0px;
+	margin:0px;
+	padding:0px;
+	background-color: grey;
+}
